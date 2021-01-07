@@ -1,0 +1,22 @@
+{
+  "name": "proshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slmzayat/mern-ecommerce.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slmzayat/mern-ecommerce/issues"
+  },
+  "homepage": "https://github.com/slmzayat/mern-ecommerce#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
